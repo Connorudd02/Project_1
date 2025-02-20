@@ -1,6 +1,6 @@
 # Project_1
 GitHub Repository for 02450 Introduction to Machine Learning &amp; Data Mining - Project 1
-## Wheat Kernel Classification Dataset
+## Seeds Classification Dataset
 This project utilizes the Seeds Dataset from the UCI Machine Learning Repository. The dataset contains geometric measurements of wheat kernels, which are useful for classification tasks such as distinguishing between different varieties of wheat. The data is structured as tensors, with each feature representing a specific attribute of the wheat grains.
 
 Dataset Description
