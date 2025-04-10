@@ -1,0 +1,20 @@
+LICENSE
+
+This repository contains code for the course 02450 Introduction to Machine Learning and Data Mining at the Technical 
+University of Denmark (DTU).
+
+Some of the code, data and functions used in this repository comes from other sources and the licensing terms are as 
+indicated in the relevant files or referenced packages.
+
+All material including software are intended for research and educational purpose. Any sale or commercial distribution 
+is strictly forbidden, unless the Department of Applied Mathematics and Computer Science, the Technical University of D
+enmark (DTU Compute) has given explicit written permission.
+ 
+The material including software is provided "as-is". Support is generally not available. No warranties of any kind, 
+express or implied, are made as to it or any medium it may be on. No remedy will be provided for indirect, 
+consequential, punitive or incidental damages arising from it, including such from negligence, strict liability, 
+or breach of warranty or contract, even after notice of the possibility of such damages.
+ 
+Inquiries about licensing can be made to the Cognitive System Section, DTU Compute, http://cogsys.compute.dtu.dk
+
+The material is not for redistribution.
